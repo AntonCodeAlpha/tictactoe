@@ -1,0 +1,12 @@
+h1 {color: yellow; font-size: 92px;}
+button {height: 250px; width: 250px;}
+
+.middle {
+    margin: auto auto;
+}
+
+body {background-image: url(background.png) ;}
+#win {font-size: 46px; color: red; background-color: yellowgreen; margin: 50px auto;}
+
+.tictactoebuttons {font-size: 150px;}
+noscript {color: deeppink; font-size: 75px; background-color: aqua;}
